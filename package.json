@@ -31,7 +31,7 @@
     "express-validator": "^6.12.0",
     "hat": "^0.0.3",
     "moment": "^2.27.0",
-    "pg": "^8.5.1",
+    "pg": "^8.7.1",
     "simplify-geojson": "^1.0.4",
     "verror": "^1.10.0",
     "viewport-mercator-project": "^7.0.3",
